@@ -1,2 +1,2 @@
 # ECE-T380
-Repository for ECE-T380, or Special Topics: Applied Machine Learning taken at Drexel University.
+Repository for ECE-T380, or Special Topics: Sensor Labs taken at Drexel University.
